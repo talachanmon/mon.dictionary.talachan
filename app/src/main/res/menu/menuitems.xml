@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/home"
+        android:textStyle="italic"
+        android:title="Home"
+        android:typeface="sans"/>
+
+    <item
+        android:id="@+id/random"
+        android:orderInCategory="2"
+        android:icon="@drawable/random"
+        android:showAsAction="ifRoom"
+        android:title="Random"/>
+    <item
+        android:id="@+id/favourites"
+        android:orderInCategory="3"
+        android:icon="@drawable/star"
+        android:showAsAction="ifRoom"
+        android:title="Favourites"/>
+    <item
+        android:id="@+id/recent"
+        android:orderInCategory="4"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/recent"
+        android:title="Recent"/>
+    <item
+        android:id="@+id/aboutus"
+        android:orderInCategory="5"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/aboutus"
+        android:title="AboutUs"/>
+
+</menu>

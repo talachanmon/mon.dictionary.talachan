@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ehcbody">#fdfdfd</color>
+    <color name="ehcboldtext">#464646</color>
+    <color name="ehcgreen">#81b600</color>
+    <color name="ehclogobg">#333</color>
+    <color name="ehcsearchview">#555</color>
+    <color name="ehcwod">#a69d86</color>
+    <color name="sysBlack">#FF000000</color>
+    <color name="sysBlue">#FF0000FF</color>
+    <color name="sysCyan">#FF00FFFF</color>
+    <color name="sysDkGray">#FF444444</color>
+    <color name="sysGray">#FF888888</color>
+    <color name="sysGreen">#FF00FF00</color>
+    <color name="sysLtGray">#FFCCCCCC</color>
+    <color name="sysMagenta">#FFFF00FF</color>
+    <color name="sysRed">#FFFF0000</color>
+    <color name="sysTransparent">#00000000</color>
+    <color name="sysWhite">#FFFFFFFF</color>
+    <color name="sysYellow">#FFFFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="aboutus">About Us</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Mon Dict</string>
+    <string name="day_word">Word Of The Day</string>
+    <string name="favourite">Favourites</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">Home</string>
+    <string name="recent">Recent</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.talachan.hv986"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:background="@color/ehcbody"
+        android:debuggable="true"
+        android:icon="@drawable/talachan_hv986"
+        android:testOnly="true"
+        android:theme="@android:style/Theme.DeviceDefault"
+        android:uiOptions="splitActionBarWhenNarrow" >
+        <activity
+            android:name="com.talachan.hv986.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.talachan.hv986.DictionaryActivity"
+            android:layout_gravity="bottom"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

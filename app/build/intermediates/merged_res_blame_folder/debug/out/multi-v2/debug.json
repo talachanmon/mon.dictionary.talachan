@@ -1,0 +1,149 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\build\\intermediates\\merged_res\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\build\\intermediates\\merged_res\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "30,37",
+                        "startColumns": "4,4",
+                        "startOffsets": "1352,1643",
+                        "endLines": "36,39",
+                        "endColumns": "12,12",
+                        "endOffsets": "1638,1798"
+                    }
+                },
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,3,2,5,8,4,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "389,101,55,207,340,154,260,298",
+                        "endColumns": "44,52,45,52,48,52,37,41",
+                        "endOffsets": "429,149,96,255,384,202,293,335"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "973,1018,1071,1117,1170,1219,1272,1310",
+                        "endColumns": "44,52,45,52,48,52,37,41",
+                        "endOffsets": "1013,1066,1112,1165,1214,1267,1305,1347"
+                    }
+                },
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "14,17,16,15,18,19,2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "603,731,687,645,777,822,56,101,145,189,235,279,324,370,417,460,511,556",
+                        "endColumns": "41,45,42,40,44,40,45,43,43,45,43,44,45,46,42,50,44,45",
+                        "endOffsets": "640,772,725,681,817,858,96,140,184,230,274,319,365,412,455,506,551,597"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,143,186,227,272,313,358,402,446,492,536,581,627,674,717,768,813",
+                        "endColumns": "41,45,42,40,44,40,44,43,43,45,43,44,45,46,42,50,44,45",
+                        "endOffsets": "92,138,181,222,267,308,353,397,441,487,531,576,622,669,712,763,808,854"
+                    }
+                },
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "859,917",
+                        "endColumns": "57,55",
+                        "endOffsets": "912,968"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\build\\intermediates\\merged_res\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

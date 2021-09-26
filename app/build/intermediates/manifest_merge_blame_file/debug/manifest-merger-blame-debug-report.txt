@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.talachan.hv986"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:6:5-8:44
+8        android:minSdkVersion="14"
+8-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:7:13-39
+9        android:targetSdkVersion="30" />
+9-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:8:13-42
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:10:5-79
+11-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:10:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:11:5-80
+12-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:11:22-78
+13
+14    <application
+14-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:13:5-34:19
+15        android:allowBackup="true"
+15-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:14:13-39
+16        android:background="@color/ehcbody"
+16-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:15:13-48
+17        android:debuggable="true"
+18        android:icon="@drawable/talachan_hv986"
+18-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:16:13-52
+19        android:testOnly="true"
+20        android:theme="@android:style/Theme.DeviceDefault"
+20-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:17:13-63
+21        android:uiOptions="splitActionBarWhenNarrow" >
+21-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:18:13-57
+22        <activity
+22-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:20:9-27:20
+23            android:name="com.talachan.hv986.SplashActivity"
+23-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:21:17-65
+24            android:label="@string/app_name" >
+24-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:22:17-49
+25            <intent-filter>
+25-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:23:13-26:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:24:17-68
+26-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:24:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:25:17-76
+28-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:25:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:29:9-33:20
+32            android:name="com.talachan.hv986.DictionaryActivity"
+32-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:30:17-69
+33            android:layout_gravity="bottom"
+33-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:32:17-48
+34            android:label="@string/app_name" >
+34-->D:\Dictionary Project\talachan_dic\mon2eng\MonDict\copy\app\src\main\AndroidManifest.xml:31:17-49
+35        </activity>
+36    </application>
+37
+38</manifest>

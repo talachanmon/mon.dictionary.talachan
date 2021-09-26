@@ -1,0 +1,4 @@
+#Sun Sep 26 14:18:20 MMT 2021
+base.0=D\:\\Dictionary Project\\talachan_dic\\mon2eng\\MonDict\\copy\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

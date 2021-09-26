@@ -1,0 +1,13 @@
+com/talachan/hv986/SplashActivity.java
+ com.talachan.hv986.SplashActivity
+ com.talachan.hv986.SplashActivity$1
+com/talachan/hv986/BuildConfig.java
+ com.talachan.hv986.BuildConfig
+com/talachan/hv986/DictionaryActivity.java
+ com.talachan.hv986.DictionaryActivity
+ com.talachan.hv986.DictionaryActivity$1
+ com.talachan.hv986.DictionaryActivity$2
+com/talachan/hv986/DataBaseHelper.java
+ com.talachan.hv986.DataBaseHelper
+com/talachan/hv986/Dictionary.java
+ com.talachan.hv986.Dictionary
